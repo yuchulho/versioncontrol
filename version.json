@@ -1,0 +1,11 @@
+[
+  {
+    "name": "abcLogger",
+    "versions": [
+      {
+        "version": "1.5",
+        "link": "https://example.com/myapp/v1"
+      }
+    ]
+  }
+]
